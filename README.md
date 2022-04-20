@@ -6,5 +6,5 @@
   <li>I'm a student of Software Engineering - Artificial Intelligence at Centennial College class of 2024</li>
   <li>I'm 21 years young</li>
   <li>I'm an amateur Graphic Designer</li>
-  <p><a>https://www.buymeacoffee.com/diliGentt</a></p>
+  <p><a href="https://www.buymeacoffee.com/diliGentt">Buy me a Coffee? :) </a></p>
 </ul>
