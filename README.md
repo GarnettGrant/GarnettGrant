@@ -3,5 +3,8 @@
 <h1> Hello Hello! </h1>
 <p>My name is Garnett Grant</p>
 <ul>
-<li>I'm a student of Software Engineering - Artificial Intelligence at Centennial College class of 2024</li>
+  <li>I'm a student of Software Engineering - Artificial Intelligence at Centennial College class of 2024</li>
+  <li>I'm 21 years young</li>
+  <li>I'm an amateur Graphic Designer</li>
+  
 </ul>
