@@ -1,14 +1,15 @@
 ![Banner](https://user-images.githubusercontent.com/82240898/164141634-eb0506ea-4da1-425e-a5d4-91b00d3ba7af.png)
 
-<h1>👋 Hello Hello! My name is Garnett Grant, Welcome to my GitHub!</h1>
+<h1>👋🏿 Hello Hello! My name is Garnett Grant, Welcome to my GitHub!</h1>
 
 <h4>Heres a little bit about me: </h4>
 <p>
 <ul>
-  <li>I'm a student of Software Engineering - Artificial Intelligence at Centennial College class of 2024</li>
-  <li>I'm 21 years young</li>
-  <li>I dabble in Graphic Design</li>
-  <li>I'm looking forward to developing a company specializing in A.I. Safety</li>
+  <li>👨‍💻 I'm a student of Software Engineering - Artificial Intelligence at Centennial College class of 2024</li>
+  <li>🌱 I'm 21 years young</li>
+  <li>🖼 I dabble in Graphic Design</li>
+  <li>🤖 I'm looking forward to developing a company specializing in A.I. Safety</li>
+  <li>✝🙏🏿 I'm a born-again Christian <li>
 </ul>
 </p>
 
