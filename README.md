@@ -5,7 +5,7 @@
 <ul>
   <li>I'm a student of Software Engineering - Artificial Intelligence at Centennial College class of 2024</li>
   <li>I'm 21 years young</li>
-  <li>I'm dabble in Graphic Design</li>
+  <li>I dabble in Graphic Design</li>
   <li>I'm looking forward to developing a company specializing in A.I. Safety</li>
 </ul>
 
