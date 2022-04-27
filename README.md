@@ -1,6 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/82240898/164141634-eb0506ea-4da1-425e-a5d4-91b00d3ba7af.png)
 
-<h1>👋🏿 Hello Hello! My name is Garnett Grant 
+<h1>👋🏿 Hello Hello! 
+  <br> My name is Garnett Grant 
   <br> Welcome to my GitHub!
 </h1>
 
