@@ -36,6 +36,7 @@
   
 <br />
   
-<b> Support</b><p align="left">
-<br />
+<b> Support</b>
+<p align="left">
 <a align="left" href="https://www.buymeacoffee.com/diliGentt"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</p>
