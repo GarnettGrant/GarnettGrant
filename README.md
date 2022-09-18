@@ -1,4 +1,5 @@
-![Banner](https://user-images.githubusercontent.com/82240898/164141634-eb0506ea-4da1-425e-a5d4-91b00d3ba7af.png)
+![Banner2022](https://user-images.githubusercontent.com/82240898/190894403-77db8b5f-6097-4887-87ac-839bcd1b38a3.jpg)
+
 
 <h1>👋🏿 Hello Hello! 
   <br> Welcome to my GitHub!
