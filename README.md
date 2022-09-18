@@ -1,4 +1,4 @@
-![Banner2022](https://user-images.githubusercontent.com/82240898/190894403-77db8b5f-6097-4887-87ac-839bcd1b38a3.jpg)
+![Banner2022](https://user-images.githubusercontent.com/82240898/190894440-6677dc16-6f98-4d5e-857f-5cc52d63ab12.jpg)
 
 
 <h1>👋🏿 Hello Hello! 
