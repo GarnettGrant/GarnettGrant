@@ -44,7 +44,8 @@
 
 <a href="http://www.github.com/GarnettGrant"><img src="https://activity-graph.herokuapp.com/graph?username=GarnettGrant&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/GarnettGrant" align="left"><img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarnettGrant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" alt="Top Languages" /></a>
+<a href="https://github.com/GarnettGrant" align="left"><img src="" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarnettGrant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   
 <b> Support</b>
