@@ -9,7 +9,7 @@
 <p>
 <ul>
   <li>👨‍💻 I'm a student of Software Engineering - Artificial Intelligence at Centennial College class of 2024</li>
-  <li>🌱 I'm 22 years young</li>
+  <li>🌱 I'm 23 years young</li>
   <li>🖼 I dabble in Graphic Design</li>
   <li>🤖 I'm looking forward to developing a company specializing in A.I. Safety</li>
   <li>✝🙏🏿 I'm a born-again Christian </li>
