@@ -8,7 +8,7 @@
 <h4>Heres a little bit about me: </h4>
 <p>
 <ul>
-  <li>👨‍💻 I'm a student of Software Engineering - Artificial Intelligence at Centennial College class of 2024</li>
+  <li>👨‍💻 I'm a student of Software Engineering - Artificial Intelligence at Centennial College class of 2025</li>
   <li>🌱 I'm 23 years young</li>
   <li>🖼 I dabble in Graphic Design</li>
   <li>🤖 I'm looking forward to developing a company specializing in A.I. Safety</li>
