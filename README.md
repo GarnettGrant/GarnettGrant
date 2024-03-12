@@ -8,11 +8,13 @@
 <h4>Heres a little bit about me: </h4>
 <p>
 <ul>
-  <li>👨‍💻 I'm a student of Software Engineering - Artificial Intelligence at Centennial College class of 2025</li>
+  <li>👨‍💻 I'm a Software Engineer </li>
+  <li>📚 I'm Studying Artificial Intelligence at Centennial College class of 2025</li>
   <li>🌱 I'm 23 years young</li>
+  <li>🤵🏾👰🏾 I'm married to my beautiful wife Crystal</li>
   <li>🖼 I dabble in Graphic Design</li>
   <li>🤖 I'm looking forward to developing a company specializing in A.I. Safety</li>
-  <li>✝🙏🏿 I'm a born-again Christian </li>
+  <li>✝🙏🏿 I'm a born-again Christian, so yes, I love Jesus!</li>
 </ul>
 </p>
 
