@@ -8,8 +8,9 @@
 <h4>Heres a little bit about me: </h4>
 <p>
 <ul>
-  <li>👨‍💻📚I'm a Software Engineer Studying Artificial Intelligence at Centennial College class of 2025</li>
+  <li>👨🏾‍💻📚I'm a Software Engineer Studying Artificial Intelligence at Centennial College class of 2025</li>
   <li>👨🏾‍💻🏢I'm currently a Systems Integration Tester for the Government of Ontario</li>
+  <li>👨🏾‍💻🏫I'm also a Part-Time Instructor for Youth/Children at Ultimate Coders</li>
   <li>🤖 I'm looking forward to developing a company specializing in A.I. Safety</li>
   <li>🖼 I dabble in Graphic Design</li>
   <li>🌱 I'm 23 years young</li>
