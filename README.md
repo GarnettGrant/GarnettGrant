@@ -3,9 +3,7 @@
 
 
 
-<h1>👋🏿 Hello Hello! 
-  <br> Welcome to my GitHub!
-</h1>
+<h1>👋🏿Hey, Welcome to my GitHub! </h1>
 
 <h4>Heres a little bit about me: </h4>
 <p>
