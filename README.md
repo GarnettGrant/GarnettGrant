@@ -9,7 +9,7 @@
 <p>
 <ul>
   <li>👨🏾‍💻📚I'm a Software Engineer Studying Artificial Intelligence at Centennial College class of 2025</li>
-  <li>👨🏾‍💻🏢I'm currently a UAT Analyst for the Government of Ontario</li>
+  <li>👨🏾‍💻🏢I'm currently a Sr. Technical QA Analyst for the Government of Ontario</li>
   <li>👨🏾‍💻🏫I'm also a Part-Time Instructor for Youth/Children at Ultimate Coders</li>
   <li>🤖 I'm looking forward to developing a company (ArcaneVisceral) specializing in A.I. Safety</li>
   <li>🖼 I dabble in Graphic Design</li>
