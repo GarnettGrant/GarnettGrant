@@ -13,7 +13,7 @@
   <li>👨🏾‍💻🏫I'm also a Part-Time Instructor for Youth/Children at Ultimate Coders</li>
   <li>🤖 I'm looking forward to developing a company (ArcaneVisceral) specializing in A.I. Safety, Personal Development, and so much more!</li>
   <li>🖼 I dabble in Graphic Design</li>
-  <li>🌱 I'm 23 years young</li>
+  <li>🌱 I'm 24 years young</li>
   <li>🤵🏾👰🏾 I'm married to my beautiful wife Crystal</li>
   <li>✝🙏🏿 I'm a born-again Christian, so yes, I love Jesus!</li>
 </ul>
